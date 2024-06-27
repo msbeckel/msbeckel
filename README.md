@@ -1,5 +1,5 @@
 # 💫 About Me:
-With a Ph.D. in Biological Sciences and a focus on Bioinformatics, I delve into the intricate tapestry of genomics and transcriptomics.  My journey encompasses diverse projects where I've navigated the complexities of biological data, employing cutting-edge techniques to glean insights. Moreover, my proficiency in Data Science adds a unique dimension to my skill set, enabling me to extract meaningful insights from complex biological datasets. I am driven by a passion for leveraging cutting-edge technologies to unravel the mysteries of life sciences, making meaningful contributions to the field while continually expanding my horizons.
+With a Ph.D. in Biological Sciences and a focus on Bioinformatics, I delve into the intricate world of genomics and transcriptomics.  My journey encompasses diverse projects where I've navigated the complexities of biological data, employing cutting-edge techniques to glean insights. Moreover, my proficiency in Data Science adds a unique dimension to my skill set, enabling me to extract meaningful insights from complex biological datasets. I am driven by a passion for leveraging cutting-edge technologies to unravel the mysteries of life sciences, making meaningful contributions to the field while continually expanding my horizons.
 
 
 ## 🌐 Socials:
